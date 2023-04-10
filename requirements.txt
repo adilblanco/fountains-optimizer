@@ -1,0 +1,9 @@
+geopy
+scipy
+jupyter
+pandas
+folium
+shapely
+geopandas
+matplotlib
+python-constraint
